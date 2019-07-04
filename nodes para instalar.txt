@@ -1,0 +1,9 @@
+﻿node-red-node-email
+node-red-feedparser
+node-red-random
+node-red-rbe
+node-red-dashboard
+node-red-serialport
+node-red-smooth
+node-red-tail
+node-red-twitter
